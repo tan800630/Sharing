@@ -1,0 +1,635 @@
+#,Name,Generation,Legendary
+152,Chikorita,2,FALSE
+153,Bayleef,2,FALSE
+154,Meganium,2,FALSE
+155,Cyndaquil,2,FALSE
+156,Quilava,2,FALSE
+157,Typhlosion,2,FALSE
+158,Totodile,2,FALSE
+159,Croconaw,2,FALSE
+160,Feraligatr,2,FALSE
+161,Sentret,2,FALSE
+162,Furret,2,FALSE
+163,Hoothoot,2,FALSE
+164,Noctowl,2,FALSE
+165,Ledyba,2,FALSE
+166,Ledian,2,FALSE
+167,Spinarak,2,FALSE
+168,Ariados,2,FALSE
+169,Crobat,2,FALSE
+170,Chinchou,2,FALSE
+171,Lanturn,2,FALSE
+172,Pichu,2,FALSE
+173,Cleffa,2,FALSE
+174,Igglybuff,2,FALSE
+175,Togepi,2,FALSE
+176,Togetic,2,FALSE
+177,Natu,2,FALSE
+178,Xatu,2,FALSE
+179,Mareep,2,FALSE
+180,Flaaffy,2,FALSE
+181,Ampharos,2,FALSE
+181,AmpharosMega Ampharos,2,FALSE
+182,Bellossom,2,FALSE
+183,Marill,2,FALSE
+184,Azumarill,2,FALSE
+185,Sudowoodo,2,FALSE
+186,Politoed,2,FALSE
+187,Hoppip,2,FALSE
+188,Skiploom,2,FALSE
+189,Jumpluff,2,FALSE
+190,Aipom,2,FALSE
+191,Sunkern,2,FALSE
+192,Sunflora,2,FALSE
+193,Yanma,2,FALSE
+194,Wooper,2,FALSE
+195,Quagsire,2,FALSE
+196,Espeon,2,FALSE
+197,Umbreon,2,FALSE
+198,Murkrow,2,FALSE
+199,Slowking,2,FALSE
+200,Misdreavus,2,FALSE
+201,Unown,2,FALSE
+202,Wobbuffet,2,FALSE
+203,Girafarig,2,FALSE
+204,Pineco,2,FALSE
+205,Forretress,2,FALSE
+206,Dunsparce,2,FALSE
+207,Gligar,2,FALSE
+208,Steelix,2,FALSE
+208,SteelixMega Steelix,2,FALSE
+209,Snubbull,2,FALSE
+210,Granbull,2,FALSE
+211,Qwilfish,2,FALSE
+212,Scizor,2,FALSE
+212,ScizorMega Scizor,2,FALSE
+213,Shuckle,2,FALSE
+214,Heracross,2,FALSE
+214,HeracrossMega Heracross,2,FALSE
+215,Sneasel,2,FALSE
+216,Teddiursa,2,FALSE
+217,Ursaring,2,FALSE
+218,Slugma,2,FALSE
+219,Magcargo,2,FALSE
+220,Swinub,2,FALSE
+221,Piloswine,2,FALSE
+222,Corsola,2,FALSE
+223,Remoraid,2,FALSE
+224,Octillery,2,FALSE
+225,Delibird,2,FALSE
+226,Mantine,2,FALSE
+227,Skarmory,2,FALSE
+228,Houndour,2,FALSE
+229,Houndoom,2,FALSE
+229,HoundoomMega Houndoom,2,FALSE
+230,Kingdra,2,FALSE
+231,Phanpy,2,FALSE
+232,Donphan,2,FALSE
+233,Porygon2,2,FALSE
+234,Stantler,2,FALSE
+235,Smeargle,2,FALSE
+236,Tyrogue,2,FALSE
+237,Hitmontop,2,FALSE
+238,Smoochum,2,FALSE
+239,Elekid,2,FALSE
+240,Magby,2,FALSE
+241,Miltank,2,FALSE
+242,Blissey,2,FALSE
+243,Raikou,2,TRUE
+244,Entei,2,TRUE
+245,Suicune,2,TRUE
+246,Larvitar,2,FALSE
+247,Pupitar,2,FALSE
+248,Tyranitar,2,FALSE
+248,TyranitarMega Tyranitar,2,FALSE
+249,Lugia,2,TRUE
+250,Ho-oh,2,TRUE
+251,Celebi,2,FALSE
+252,Treecko,3,FALSE
+253,Grovyle,3,FALSE
+254,Sceptile,3,FALSE
+254,SceptileMega Sceptile,3,FALSE
+255,Torchic,3,FALSE
+256,Combusken,3,FALSE
+257,Blaziken,3,FALSE
+257,BlazikenMega Blaziken,3,FALSE
+258,Mudkip,3,FALSE
+259,Marshtomp,3,FALSE
+260,Swampert,3,FALSE
+260,SwampertMega Swampert,3,FALSE
+261,Poochyena,3,FALSE
+262,Mightyena,3,FALSE
+263,Zigzagoon,3,FALSE
+264,Linoone,3,FALSE
+265,Wurmple,3,FALSE
+266,Silcoon,3,FALSE
+267,Beautifly,3,FALSE
+268,Cascoon,3,FALSE
+269,Dustox,3,FALSE
+270,Lotad,3,FALSE
+271,Lombre,3,FALSE
+272,Ludicolo,3,FALSE
+273,Seedot,3,FALSE
+274,Nuzleaf,3,FALSE
+275,Shiftry,3,FALSE
+276,Taillow,3,FALSE
+277,Swellow,3,FALSE
+278,Wingull,3,FALSE
+279,Pelipper,3,FALSE
+280,Ralts,3,FALSE
+281,Kirlia,3,FALSE
+282,Gardevoir,3,FALSE
+282,GardevoirMega Gardevoir,3,FALSE
+283,Surskit,3,FALSE
+284,Masquerain,3,FALSE
+285,Shroomish,3,FALSE
+286,Breloom,3,FALSE
+287,Slakoth,3,FALSE
+288,Vigoroth,3,FALSE
+289,Slaking,3,FALSE
+290,Nincada,3,FALSE
+291,Ninjask,3,FALSE
+292,Shedinja,3,FALSE
+293,Whismur,3,FALSE
+294,Loudred,3,FALSE
+295,Exploud,3,FALSE
+296,Makuhita,3,FALSE
+297,Hariyama,3,FALSE
+298,Azurill,3,FALSE
+299,Nosepass,3,FALSE
+300,Skitty,3,FALSE
+301,Delcatty,3,FALSE
+302,Sableye,3,FALSE
+302,SableyeMega Sableye,3,FALSE
+303,Mawile,3,FALSE
+303,MawileMega Mawile,3,FALSE
+304,Aron,3,FALSE
+305,Lairon,3,FALSE
+306,Aggron,3,FALSE
+306,AggronMega Aggron,3,FALSE
+307,Meditite,3,FALSE
+308,Medicham,3,FALSE
+308,MedichamMega Medicham,3,FALSE
+309,Electrike,3,FALSE
+310,Manectric,3,FALSE
+310,ManectricMega Manectric,3,FALSE
+311,Plusle,3,FALSE
+312,Minun,3,FALSE
+313,Volbeat,3,FALSE
+314,Illumise,3,FALSE
+315,Roselia,3,FALSE
+316,Gulpin,3,FALSE
+317,Swalot,3,FALSE
+318,Carvanha,3,FALSE
+319,Sharpedo,3,FALSE
+319,SharpedoMega Sharpedo,3,FALSE
+320,Wailmer,3,FALSE
+321,Wailord,3,FALSE
+322,Numel,3,FALSE
+323,Camerupt,3,FALSE
+323,CameruptMega Camerupt,3,FALSE
+324,Torkoal,3,FALSE
+325,Spoink,3,FALSE
+326,Grumpig,3,FALSE
+327,Spinda,3,FALSE
+328,Trapinch,3,FALSE
+329,Vibrava,3,FALSE
+330,Flygon,3,FALSE
+331,Cacnea,3,FALSE
+332,Cacturne,3,FALSE
+333,Swablu,3,FALSE
+334,Altaria,3,FALSE
+334,AltariaMega Altaria,3,FALSE
+335,Zangoose,3,FALSE
+336,Seviper,3,FALSE
+337,Lunatone,3,FALSE
+338,Solrock,3,FALSE
+339,Barboach,3,FALSE
+340,Whiscash,3,FALSE
+341,Corphish,3,FALSE
+342,Crawdaunt,3,FALSE
+343,Baltoy,3,FALSE
+344,Claydol,3,FALSE
+345,Lileep,3,FALSE
+346,Cradily,3,FALSE
+347,Anorith,3,FALSE
+348,Armaldo,3,FALSE
+349,Feebas,3,FALSE
+350,Milotic,3,FALSE
+351,Castform,3,FALSE
+352,Kecleon,3,FALSE
+353,Shuppet,3,FALSE
+354,Banette,3,FALSE
+354,BanetteMega Banette,3,FALSE
+355,Duskull,3,FALSE
+356,Dusclops,3,FALSE
+357,Tropius,3,FALSE
+358,Chimecho,3,FALSE
+359,Absol,3,FALSE
+359,AbsolMega Absol,3,FALSE
+360,Wynaut,3,FALSE
+361,Snorunt,3,FALSE
+362,Glalie,3,FALSE
+362,GlalieMega Glalie,3,FALSE
+363,Spheal,3,FALSE
+364,Sealeo,3,FALSE
+365,Walrein,3,FALSE
+366,Clamperl,3,FALSE
+367,Huntail,3,FALSE
+368,Gorebyss,3,FALSE
+369,Relicanth,3,FALSE
+370,Luvdisc,3,FALSE
+371,Bagon,3,FALSE
+372,Shelgon,3,FALSE
+373,Salamence,3,FALSE
+373,SalamenceMega Salamence,3,FALSE
+374,Beldum,3,FALSE
+375,Metang,3,FALSE
+376,Metagross,3,FALSE
+376,MetagrossMega Metagross,3,FALSE
+377,Regirock,3,TRUE
+378,Regice,3,TRUE
+379,Registeel,3,TRUE
+380,Latias,3,TRUE
+380,LatiasMega Latias,3,TRUE
+381,Latios,3,TRUE
+381,LatiosMega Latios,3,TRUE
+382,Kyogre,3,TRUE
+382,KyogrePrimal Kyogre,3,TRUE
+383,Groudon,3,TRUE
+383,GroudonPrimal Groudon,3,TRUE
+384,Rayquaza,3,TRUE
+384,RayquazaMega Rayquaza,3,TRUE
+385,Jirachi,3,TRUE
+386,DeoxysNormal Forme,3,TRUE
+386,DeoxysAttack Forme,3,TRUE
+386,DeoxysDefense Forme,3,TRUE
+386,DeoxysSpeed Forme,3,TRUE
+387,Turtwig,4,FALSE
+388,Grotle,4,FALSE
+389,Torterra,4,FALSE
+390,Chimchar,4,FALSE
+391,Monferno,4,FALSE
+392,Infernape,4,FALSE
+393,Piplup,4,FALSE
+394,Prinplup,4,FALSE
+395,Empoleon,4,FALSE
+396,Starly,4,FALSE
+397,Staravia,4,FALSE
+398,Staraptor,4,FALSE
+399,Bidoof,4,FALSE
+400,Bibarel,4,FALSE
+401,Kricketot,4,FALSE
+402,Kricketune,4,FALSE
+403,Shinx,4,FALSE
+404,Luxio,4,FALSE
+405,Luxray,4,FALSE
+406,Budew,4,FALSE
+407,Roserade,4,FALSE
+408,Cranidos,4,FALSE
+409,Rampardos,4,FALSE
+410,Shieldon,4,FALSE
+411,Bastiodon,4,FALSE
+412,Burmy,4,FALSE
+413,WormadamPlant Cloak,4,FALSE
+413,WormadamSandy Cloak,4,FALSE
+413,WormadamTrash Cloak,4,FALSE
+414,Mothim,4,FALSE
+415,Combee,4,FALSE
+416,Vespiquen,4,FALSE
+417,Pachirisu,4,FALSE
+418,Buizel,4,FALSE
+419,Floatzel,4,FALSE
+420,Cherubi,4,FALSE
+421,Cherrim,4,FALSE
+422,Shellos,4,FALSE
+423,Gastrodon,4,FALSE
+424,Ambipom,4,FALSE
+425,Drifloon,4,FALSE
+426,Drifblim,4,FALSE
+427,Buneary,4,FALSE
+428,Lopunny,4,FALSE
+428,LopunnyMega Lopunny,4,FALSE
+429,Mismagius,4,FALSE
+430,Honchkrow,4,FALSE
+431,Glameow,4,FALSE
+432,Purugly,4,FALSE
+433,Chingling,4,FALSE
+434,Stunky,4,FALSE
+435,Skuntank,4,FALSE
+436,Bronzor,4,FALSE
+437,Bronzong,4,FALSE
+438,Bonsly,4,FALSE
+439,Mime Jr.,4,FALSE
+440,Happiny,4,FALSE
+441,Chatot,4,FALSE
+442,Spiritomb,4,FALSE
+443,Gible,4,FALSE
+444,Gabite,4,FALSE
+445,Garchomp,4,FALSE
+445,GarchompMega Garchomp,4,FALSE
+446,Munchlax,4,FALSE
+447,Riolu,4,FALSE
+448,Lucario,4,FALSE
+448,LucarioMega Lucario,4,FALSE
+449,Hippopotas,4,FALSE
+450,Hippowdon,4,FALSE
+451,Skorupi,4,FALSE
+452,Drapion,4,FALSE
+453,Croagunk,4,FALSE
+454,Toxicroak,4,FALSE
+455,Carnivine,4,FALSE
+456,Finneon,4,FALSE
+457,Lumineon,4,FALSE
+458,Mantyke,4,FALSE
+459,Snover,4,FALSE
+460,Abomasnow,4,FALSE
+460,AbomasnowMega Abomasnow,4,FALSE
+461,Weavile,4,FALSE
+462,Magnezone,4,FALSE
+463,Lickilicky,4,FALSE
+464,Rhyperior,4,FALSE
+465,Tangrowth,4,FALSE
+466,Electivire,4,FALSE
+467,Magmortar,4,FALSE
+468,Togekiss,4,FALSE
+469,Yanmega,4,FALSE
+470,Leafeon,4,FALSE
+471,Glaceon,4,FALSE
+472,Gliscor,4,FALSE
+473,Mamoswine,4,FALSE
+474,Porygon-Z,4,FALSE
+475,Gallade,4,FALSE
+475,GalladeMega Gallade,4,FALSE
+476,Probopass,4,FALSE
+477,Dusknoir,4,FALSE
+478,Froslass,4,FALSE
+479,Rotom,4,FALSE
+479,RotomHeat Rotom,4,FALSE
+479,RotomWash Rotom,4,FALSE
+479,RotomFrost Rotom,4,FALSE
+479,RotomFan Rotom,4,FALSE
+479,RotomMow Rotom,4,FALSE
+480,Uxie,4,TRUE
+481,Mesprit,4,TRUE
+482,Azelf,4,TRUE
+483,Dialga,4,TRUE
+484,Palkia,4,TRUE
+485,Heatran,4,TRUE
+486,Regigigas,4,TRUE
+487,GiratinaAltered Forme,4,TRUE
+487,GiratinaOrigin Forme,4,TRUE
+488,Cresselia,4,FALSE
+489,Phione,4,FALSE
+490,Manaphy,4,FALSE
+491,Darkrai,4,TRUE
+492,ShayminLand Forme,4,TRUE
+492,ShayminSky Forme,4,TRUE
+493,Arceus,4,TRUE
+494,Victini,5,TRUE
+495,Snivy,5,FALSE
+496,Servine,5,FALSE
+497,Serperior,5,FALSE
+498,Tepig,5,FALSE
+499,Pignite,5,FALSE
+500,Emboar,5,FALSE
+501,Oshawott,5,FALSE
+502,Dewott,5,FALSE
+503,Samurott,5,FALSE
+504,Patrat,5,FALSE
+505,Watchog,5,FALSE
+506,Lillipup,5,FALSE
+507,Herdier,5,FALSE
+508,Stoutland,5,FALSE
+509,Purrloin,5,FALSE
+510,Liepard,5,FALSE
+511,Pansage,5,FALSE
+512,Simisage,5,FALSE
+513,Pansear,5,FALSE
+514,Simisear,5,FALSE
+515,Panpour,5,FALSE
+516,Simipour,5,FALSE
+517,Munna,5,FALSE
+518,Musharna,5,FALSE
+519,Pidove,5,FALSE
+520,Tranquill,5,FALSE
+521,Unfezant,5,FALSE
+522,Blitzle,5,FALSE
+523,Zebstrika,5,FALSE
+524,Roggenrola,5,FALSE
+525,Boldore,5,FALSE
+526,Gigalith,5,FALSE
+527,Woobat,5,FALSE
+528,Swoobat,5,FALSE
+529,Drilbur,5,FALSE
+530,Excadrill,5,FALSE
+531,Audino,5,FALSE
+531,AudinoMega Audino,5,FALSE
+532,Timburr,5,FALSE
+533,Gurdurr,5,FALSE
+534,Conkeldurr,5,FALSE
+535,Tympole,5,FALSE
+536,Palpitoad,5,FALSE
+537,Seismitoad,5,FALSE
+538,Throh,5,FALSE
+539,Sawk,5,FALSE
+540,Sewaddle,5,FALSE
+541,Swadloon,5,FALSE
+542,Leavanny,5,FALSE
+543,Venipede,5,FALSE
+544,Whirlipede,5,FALSE
+545,Scolipede,5,FALSE
+546,Cottonee,5,FALSE
+547,Whimsicott,5,FALSE
+548,Petilil,5,FALSE
+549,Lilligant,5,FALSE
+550,Basculin,5,FALSE
+551,Sandile,5,FALSE
+552,Krokorok,5,FALSE
+553,Krookodile,5,FALSE
+554,Darumaka,5,FALSE
+555,DarmanitanStandard Mode,5,FALSE
+555,DarmanitanZen Mode,5,FALSE
+556,Maractus,5,FALSE
+557,Dwebble,5,FALSE
+558,Crustle,5,FALSE
+559,Scraggy,5,FALSE
+560,Scrafty,5,FALSE
+561,Sigilyph,5,FALSE
+562,Yamask,5,FALSE
+563,Cofagrigus,5,FALSE
+564,Tirtouga,5,FALSE
+565,Carracosta,5,FALSE
+566,Archen,5,FALSE
+567,Archeops,5,FALSE
+568,Trubbish,5,FALSE
+569,Garbodor,5,FALSE
+570,Zorua,5,FALSE
+571,Zoroark,5,FALSE
+572,Minccino,5,FALSE
+573,Cinccino,5,FALSE
+574,Gothita,5,FALSE
+575,Gothorita,5,FALSE
+576,Gothitelle,5,FALSE
+577,Solosis,5,FALSE
+578,Duosion,5,FALSE
+579,Reuniclus,5,FALSE
+580,Ducklett,5,FALSE
+581,Swanna,5,FALSE
+582,Vanillite,5,FALSE
+583,Vanillish,5,FALSE
+584,Vanilluxe,5,FALSE
+585,Deerling,5,FALSE
+586,Sawsbuck,5,FALSE
+587,Emolga,5,FALSE
+588,Karrablast,5,FALSE
+589,Escavalier,5,FALSE
+590,Foongus,5,FALSE
+591,Amoonguss,5,FALSE
+592,Frillish,5,FALSE
+593,Jellicent,5,FALSE
+594,Alomomola,5,FALSE
+595,Joltik,5,FALSE
+596,Galvantula,5,FALSE
+597,Ferroseed,5,FALSE
+598,Ferrothorn,5,FALSE
+599,Klink,5,FALSE
+600,Klang,5,FALSE
+601,Klinklang,5,FALSE
+602,Tynamo,5,FALSE
+603,Eelektrik,5,FALSE
+604,Eelektross,5,FALSE
+605,Elgyem,5,FALSE
+606,Beheeyem,5,FALSE
+607,Litwick,5,FALSE
+608,Lampent,5,FALSE
+609,Chandelure,5,FALSE
+610,Axew,5,FALSE
+611,Fraxure,5,FALSE
+612,Haxorus,5,FALSE
+613,Cubchoo,5,FALSE
+614,Beartic,5,FALSE
+615,Cryogonal,5,FALSE
+616,Shelmet,5,FALSE
+617,Accelgor,5,FALSE
+618,Stunfisk,5,FALSE
+619,Mienfoo,5,FALSE
+620,Mienshao,5,FALSE
+621,Druddigon,5,FALSE
+622,Golett,5,FALSE
+623,Golurk,5,FALSE
+624,Pawniard,5,FALSE
+625,Bisharp,5,FALSE
+626,Bouffalant,5,FALSE
+627,Rufflet,5,FALSE
+628,Braviary,5,FALSE
+629,Vullaby,5,FALSE
+630,Mandibuzz,5,FALSE
+631,Heatmor,5,FALSE
+632,Durant,5,FALSE
+633,Deino,5,FALSE
+634,Zweilous,5,FALSE
+635,Hydreigon,5,FALSE
+636,Larvesta,5,FALSE
+637,Volcarona,5,FALSE
+638,Cobalion,5,TRUE
+639,Terrakion,5,TRUE
+640,Virizion,5,TRUE
+641,TornadusIncarnate Forme,5,TRUE
+641,TornadusTherian Forme,5,TRUE
+642,ThundurusIncarnate Forme,5,TRUE
+642,ThundurusTherian Forme,5,TRUE
+643,Reshiram,5,TRUE
+644,Zekrom,5,TRUE
+645,LandorusIncarnate Forme,5,TRUE
+645,LandorusTherian Forme,5,TRUE
+646,Kyurem,5,TRUE
+646,KyuremBlack Kyurem,5,TRUE
+646,KyuremWhite Kyurem,5,TRUE
+647,KeldeoOrdinary Forme,5,FALSE
+647,KeldeoResolute Forme,5,FALSE
+648,MeloettaAria Forme,5,FALSE
+648,MeloettaPirouette Forme,5,FALSE
+649,Genesect,5,FALSE
+650,Chespin,6,FALSE
+651,Quilladin,6,FALSE
+652,Chesnaught,6,FALSE
+653,Fennekin,6,FALSE
+654,Braixen,6,FALSE
+655,Delphox,6,FALSE
+656,Froakie,6,FALSE
+657,Frogadier,6,FALSE
+658,Greninja,6,FALSE
+659,Bunnelby,6,FALSE
+660,Diggersby,6,FALSE
+661,Fletchling,6,FALSE
+662,Fletchinder,6,FALSE
+663,Talonflame,6,FALSE
+664,Scatterbug,6,FALSE
+665,Spewpa,6,FALSE
+666,Vivillon,6,FALSE
+667,Litleo,6,FALSE
+668,Pyroar,6,FALSE
+669,Flabébé,6,FALSE
+670,Floette,6,FALSE
+671,Florges,6,FALSE
+672,Skiddo,6,FALSE
+673,Gogoat,6,FALSE
+674,Pancham,6,FALSE
+675,Pangoro,6,FALSE
+676,Furfrou,6,FALSE
+677,Espurr,6,FALSE
+678,MeowsticMale,6,FALSE
+678,MeowsticFemale,6,FALSE
+679,Honedge,6,FALSE
+680,Doublade,6,FALSE
+681,AegislashBlade Forme,6,FALSE
+681,AegislashShield Forme,6,FALSE
+682,Spritzee,6,FALSE
+683,Aromatisse,6,FALSE
+684,Swirlix,6,FALSE
+685,Slurpuff,6,FALSE
+686,Inkay,6,FALSE
+687,Malamar,6,FALSE
+688,Binacle,6,FALSE
+689,Barbaracle,6,FALSE
+690,Skrelp,6,FALSE
+691,Dragalge,6,FALSE
+692,Clauncher,6,FALSE
+693,Clawitzer,6,FALSE
+694,Helioptile,6,FALSE
+695,Heliolisk,6,FALSE
+696,Tyrunt,6,FALSE
+697,Tyrantrum,6,FALSE
+698,Amaura,6,FALSE
+699,Aurorus,6,FALSE
+700,Sylveon,6,FALSE
+701,Hawlucha,6,FALSE
+702,Dedenne,6,FALSE
+703,Carbink,6,FALSE
+704,Goomy,6,FALSE
+705,Sliggoo,6,FALSE
+706,Goodra,6,FALSE
+707,Klefki,6,FALSE
+708,Phantump,6,FALSE
+709,Trevenant,6,FALSE
+710,PumpkabooAverage Size,6,FALSE
+710,PumpkabooSmall Size,6,FALSE
+710,PumpkabooLarge Size,6,FALSE
+710,PumpkabooSuper Size,6,FALSE
+711,GourgeistAverage Size,6,FALSE
+711,GourgeistSmall Size,6,FALSE
+711,GourgeistLarge Size,6,FALSE
+711,GourgeistSuper Size,6,FALSE
+712,Bergmite,6,FALSE
+713,Avalugg,6,FALSE
+714,Noibat,6,FALSE
+715,Noivern,6,FALSE
+716,Xerneas,6,TRUE
+717,Yveltal,6,TRUE
+718,Zygarde50% Forme,6,TRUE
+719,Diancie,6,TRUE
+719,DiancieMega Diancie,6,TRUE
+720,HoopaHoopa Confined,6,TRUE
+720,HoopaHoopa Unbound,6,TRUE
+721,Volcanion,6,TRUE
