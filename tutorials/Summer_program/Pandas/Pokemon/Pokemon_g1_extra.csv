@@ -1,0 +1,167 @@
+#,Name,Generation,Legendary
+1,Bulbasaur,1,FALSE
+2,Ivysaur,1,FALSE
+3,Venusaur,1,FALSE
+3,VenusaurMega Venusaur,1,FALSE
+4,Charmander,1,FALSE
+5,Charmeleon,1,FALSE
+6,Charizard,1,FALSE
+6,CharizardMega Charizard X,1,FALSE
+6,CharizardMega Charizard Y,1,FALSE
+7,Squirtle,1,FALSE
+8,Wartortle,1,FALSE
+9,Blastoise,1,FALSE
+9,BlastoiseMega Blastoise,1,FALSE
+10,Caterpie,1,FALSE
+11,Metapod,1,FALSE
+12,Butterfree,1,FALSE
+13,Weedle,1,FALSE
+14,Kakuna,1,FALSE
+15,Beedrill,1,FALSE
+15,BeedrillMega Beedrill,1,FALSE
+16,Pidgey,1,FALSE
+17,Pidgeotto,1,FALSE
+18,Pidgeot,1,FALSE
+18,PidgeotMega Pidgeot,1,FALSE
+19,Rattata,1,FALSE
+20,Raticate,1,FALSE
+21,Spearow,1,FALSE
+22,Fearow,1,FALSE
+23,Ekans,1,FALSE
+24,Arbok,1,FALSE
+25,Pikachu,1,FALSE
+26,Raichu,1,FALSE
+27,Sandshrew,1,FALSE
+28,Sandslash,1,FALSE
+29,Nidoran?€,1,FALSE
+30,Nidorina,1,FALSE
+31,Nidoqueen,1,FALSE
+32,Nidoran??Poison,FALSE,
+33,Nidorino,1,FALSE
+34,Nidoking,1,FALSE
+35,Clefairy,1,FALSE
+36,Clefable,1,FALSE
+37,Vulpix,1,FALSE
+38,Ninetales,1,FALSE
+39,Jigglypuff,1,FALSE
+40,Wigglytuff,1,FALSE
+41,Zubat,1,FALSE
+42,Golbat,1,FALSE
+43,Oddish,1,FALSE
+44,Gloom,1,FALSE
+45,Vileplume,1,FALSE
+46,Paras,1,FALSE
+47,Parasect,1,FALSE
+48,Venonat,1,FALSE
+49,Venomoth,1,FALSE
+50,Diglett,1,FALSE
+51,Dugtrio,1,FALSE
+52,Meowth,1,FALSE
+53,Persian,1,FALSE
+54,Psyduck,1,FALSE
+55,Golduck,1,FALSE
+56,Mankey,1,FALSE
+57,Primeape,1,FALSE
+58,Growlithe,1,FALSE
+59,Arcanine,1,FALSE
+60,Poliwag,1,FALSE
+61,Poliwhirl,1,FALSE
+62,Poliwrath,1,FALSE
+63,Abra,1,FALSE
+64,Kadabra,1,FALSE
+65,Alakazam,1,FALSE
+65,AlakazamMega Alakazam,1,FALSE
+66,Machop,1,FALSE
+67,Machoke,1,FALSE
+68,Machamp,1,FALSE
+69,Bellsprout,1,FALSE
+70,Weepinbell,1,FALSE
+71,Victreebel,1,FALSE
+72,Tentacool,1,FALSE
+73,Tentacruel,1,FALSE
+74,Geodude,1,FALSE
+75,Graveler,1,FALSE
+76,Golem,1,FALSE
+77,Ponyta,1,FALSE
+78,Rapidash,1,FALSE
+79,Slowpoke,1,FALSE
+80,Slowbro,1,FALSE
+80,SlowbroMega Slowbro,1,FALSE
+81,Magnemite,1,FALSE
+82,Magneton,1,FALSE
+83,Farfetch'd,1,FALSE
+84,Doduo,1,FALSE
+85,Dodrio,1,FALSE
+86,Seel,1,FALSE
+87,Dewgong,1,FALSE
+88,Grimer,1,FALSE
+89,Muk,1,FALSE
+90,Shellder,1,FALSE
+91,Cloyster,1,FALSE
+92,Gastly,1,FALSE
+93,Haunter,1,FALSE
+94,Gengar,1,FALSE
+94,GengarMega Gengar,1,FALSE
+95,Onix,1,FALSE
+96,Drowzee,1,FALSE
+97,Hypno,1,FALSE
+98,Krabby,1,FALSE
+99,Kingler,1,FALSE
+100,Voltorb,1,FALSE
+101,Electrode,1,FALSE
+102,Exeggcute,1,FALSE
+103,Exeggutor,1,FALSE
+104,Cubone,1,FALSE
+105,Marowak,1,FALSE
+106,Hitmonlee,1,FALSE
+107,Hitmonchan,1,FALSE
+108,Lickitung,1,FALSE
+109,Koffing,1,FALSE
+110,Weezing,1,FALSE
+111,Rhyhorn,1,FALSE
+112,Rhydon,1,FALSE
+113,Chansey,1,FALSE
+114,Tangela,1,FALSE
+115,Kangaskhan,1,FALSE
+115,KangaskhanMega Kangaskhan,1,FALSE
+116,Horsea,1,FALSE
+117,Seadra,1,FALSE
+118,Goldeen,1,FALSE
+119,Seaking,1,FALSE
+120,Staryu,1,FALSE
+121,Starmie,1,FALSE
+122,Mr. Mime,1,FALSE
+123,Scyther,1,FALSE
+124,Jynx,1,FALSE
+125,Electabuzz,1,FALSE
+126,Magmar,1,FALSE
+127,Pinsir,1,FALSE
+127,PinsirMega Pinsir,1,FALSE
+128,Tauros,1,FALSE
+129,Magikarp,1,FALSE
+130,Gyarados,1,FALSE
+130,GyaradosMega Gyarados,1,FALSE
+131,Lapras,1,FALSE
+132,Ditto,1,FALSE
+133,Eevee,1,FALSE
+134,Vaporeon,1,FALSE
+135,Jolteon,1,FALSE
+136,Flareon,1,FALSE
+137,Porygon,1,FALSE
+138,Omanyte,1,FALSE
+139,Omastar,1,FALSE
+140,Kabuto,1,FALSE
+141,Kabutops,1,FALSE
+142,Aerodactyl,1,FALSE
+142,AerodactylMega Aerodactyl,1,FALSE
+143,Snorlax,1,FALSE
+144,Articuno,1,TRUE
+145,Zapdos,1,TRUE
+146,Moltres,1,TRUE
+147,Dratini,1,FALSE
+148,Dragonair,1,FALSE
+149,Dragonite,1,FALSE
+150,Mewtwo,1,TRUE
+150,MewtwoMega Mewtwo X,1,TRUE
+150,MewtwoMega Mewtwo Y,1,TRUE
+151,Mew,1,FALSE
